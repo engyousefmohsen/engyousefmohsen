@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✋! My name is Yousef Mohsen and I'm an Embedded Systems & Software Engineering Student, from Egypt</h1>
+<h1 align="center"> Hello, i am Yousef Mohsen , I'm an Embedded Systems & Software Engineering Student, from Egypt</h1>
 
 <p align="center">
   <!-- أداة Snake المتحركة (ثعبان الدينصور) -->
