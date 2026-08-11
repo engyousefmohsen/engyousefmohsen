@@ -1,8 +1,8 @@
 <h1 align="center">Hi ✋! My name is Yousef Mohsen and I'm an Embedded Systems & Software Engineering Student, from Egypt</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engyousefmohsen&show_icons=true&theme=dark" alt="stats graph" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engyousefmohsen&layout=compact&theme=dark" alt="languages graph" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=engyousefmohsen&show_icons=true&theme=dark" alt="stats graph" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engyousefmohsen&layout=compact&theme=dark" alt="languages graph" width="48%" />
 </p>
 
 <p align="center">
@@ -23,6 +23,5 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1sbTVmd3RydmsxcGJscG1wNm5xcmlocjIwbHZwOHdtOHF6YnludCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L10Ymmy18E3b
-  0fC6R2/giphy.gif" alt="GIF" width="60%" />
+  <img src="https://media.giphy.com/media/L10Ymmy18E3b0fC6R2/giphy.gif" alt="GIF" width="60%" />
 </p>
