@@ -1,9 +1,5 @@
 <h1 align="center">Hi ✋! My name is Yousef Mohsen and I'm an Embedded Systems & Software Engineering Student, from Egypt</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=engyousefmohsen&show_icons=true&theme=dark" alt="stats graph" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=engyousefmohsen&layout=compact&theme=dark" alt="languages graph" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
