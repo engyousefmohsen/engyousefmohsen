@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✋! My name is Yousef Mohsen</h1>
+<h1 align="center">  Yousef Mohsen   </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5D4&center=true&vcenter=true&width=600&lines=Embedded+Systems+%26+Software+Engineering;Flutter+Developer+%7C+PCB+Design;Egypt" alt="Typing SVG" />
