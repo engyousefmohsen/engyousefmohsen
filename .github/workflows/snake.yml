@@ -1,28 +1,30 @@
+```yaml
 name: Generate Snake Modern
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # بيشتغل كل 12 ساعة
-  workflow_dispatch: # يسمح بتشغيله يدوياً
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # بيولد التعبان بألوان مودرن مخصصة
-      - uses: Platane/snk@v2
-        id: snake-gif
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            # النسخة المودرن (ألوان بنفسجي وأزرق)
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#8a2be2&color_dots=#161b22,#2d333b,#3e4c59,#4fd6be,#2e8fff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%238a2be2&color_dots=%23161b22,%232d333b,%233e4c59,%234fd6be,%232e8fff
 
-      # بيفتح فرع جديد اسمه output وبيحط فيه الصور
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
+          TARGET_BRANCH: output
+```
